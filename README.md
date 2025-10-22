@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I am Andrew 👋
 
 <!--
 **andrewpaula10213/andrewpaula10213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
